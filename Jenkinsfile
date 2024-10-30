@@ -6,6 +6,9 @@ pipeline {
         stage("build"){
             steps {
                 echo 'building the application...'
+                 echo 'building the application...'
+                 echo 'building the application...'
+                 echo 'YASH build the application...'
             }
         }
         
